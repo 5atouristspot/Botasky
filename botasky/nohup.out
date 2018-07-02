@@ -1,0 +1,1091 @@
+[2017-12-01 16:27:24 +0000] [13675] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x7f540b60ef50>
+  errorlog: -
+  enable_stdio_inheritance: False
+  worker_class: gunicorn.workers.ggevent.GeventWorker
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x7f540b60ec80>
+  pre_fork: <function pre_fork at 0x7f540b60ede8>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 0
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: None
+  sendfile: None
+  pidfile: botasky.pid
+  umask: 0
+  on_reload: <function on_reload at 0x7f540b60eb18>
+  pre_exec: <function pre_exec at 0x7f540b617578>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x7f540b617d70>
+  config: config/gunicorn_conf.py
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x7f540b6176e0>
+  post_request: <function post_request at 0x7f540b6177d0>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x7f540b6172a8>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /home/jzh/mycode/Botasky/botasky
+  daemon: False
+  user: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x7f540b60e9b0>
+  post_worker_init: <function post_worker_init at 0x7f540b617140>
+  child_exit: <function child_exit at 0x7f540b617938>
+  worker_exit: <function worker_exit at 0x7f540b617aa0>
+  paste: None
+  default_proc_name: run:app
+  syslog_addr: udp://localhost:514
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x7f540b617410>
+  loglevel: debug
+  bind: ['10.20.4.47:3621']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x7f540b617c08>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2017-12-01 16:27:24 +0000] [13675] [INFO] Starting gunicorn 19.7.1
+[2017-12-01 16:27:24 +0000] [13675] [ERROR] Invalid address: ('10.20.4.47', 3621)
+[2017-12-01 16:27:24 +0000] [13675] [DEBUG] connection to ('10.20.4.47', 3621) failed: [Errno 99] Cannot assign requested address
+[2017-12-01 16:27:24 +0000] [13675] [ERROR] Retrying in 1 second.
+[2017-12-01 16:27:25 +0000] [13675] [ERROR] Invalid address: ('10.20.4.47', 3621)
+[2017-12-01 16:27:25 +0000] [13675] [DEBUG] connection to ('10.20.4.47', 3621) failed: [Errno 99] Cannot assign requested address
+[2017-12-01 16:27:25 +0000] [13675] [ERROR] Retrying in 1 second.
+[2017-12-01 16:27:26 +0000] [13675] [ERROR] Invalid address: ('10.20.4.47', 3621)
+[2017-12-01 16:27:26 +0000] [13675] [DEBUG] connection to ('10.20.4.47', 3621) failed: [Errno 99] Cannot assign requested address
+[2017-12-01 16:27:26 +0000] [13675] [ERROR] Retrying in 1 second.
+[2017-12-01 16:27:27 +0000] [13675] [ERROR] Invalid address: ('10.20.4.47', 3621)
+[2017-12-01 16:27:27 +0000] [13675] [DEBUG] connection to ('10.20.4.47', 3621) failed: [Errno 99] Cannot assign requested address
+[2017-12-01 16:27:27 +0000] [13675] [ERROR] Retrying in 1 second.
+[2017-12-01 16:27:28 +0000] [13675] [ERROR] Invalid address: ('10.20.4.47', 3621)
+[2017-12-01 16:27:28 +0000] [13675] [DEBUG] connection to ('10.20.4.47', 3621) failed: [Errno 99] Cannot assign requested address
+[2017-12-01 16:27:28 +0000] [13675] [ERROR] Retrying in 1 second.
+[2017-12-01 16:27:29 +0000] [13675] [ERROR] Can't connect to ('10.20.4.47', 3621)
+[2017-12-01 16:28:23 +0000] [13704] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x7fe138bbaf50>
+  errorlog: -
+  enable_stdio_inheritance: False
+  worker_class: gunicorn.workers.ggevent.GeventWorker
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x7fe138bbac80>
+  pre_fork: <function pre_fork at 0x7fe138bbade8>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 0
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: None
+  sendfile: None
+  pidfile: botasky.pid
+  umask: 0
+  on_reload: <function on_reload at 0x7fe138bbab18>
+  pre_exec: <function pre_exec at 0x7fe138bc3578>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x7fe138bc3d70>
+  config: config/gunicorn_conf.py
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x7fe138bc36e0>
+  post_request: <function post_request at 0x7fe138bc37d0>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x7fe138bc32a8>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /home/jzh/mycode/Botasky/botasky
+  daemon: False
+  user: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x7fe138bba9b0>
+  post_worker_init: <function post_worker_init at 0x7fe138bc3140>
+  child_exit: <function child_exit at 0x7fe138bc3938>
+  worker_exit: <function worker_exit at 0x7fe138bc3aa0>
+  paste: None
+  default_proc_name: run:app
+  syslog_addr: udp://localhost:514
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x7fe138bc3410>
+  loglevel: debug
+  bind: ['192.168.1.116:3621']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x7fe138bc3c08>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2017-12-01 16:28:23 +0000] [13704] [INFO] Starting gunicorn 19.7.1
+[2017-12-01 16:28:23 +0000] [13704] [DEBUG] Arbiter booted
+[2017-12-01 16:28:23 +0000] [13704] [INFO] Listening at: http://192.168.1.116:3621 (13704)
+[2017-12-01 16:28:23 +0000] [13704] [INFO] Using worker: gunicorn.workers.ggevent.GeventWorker
+[2017-12-01 16:28:23 +0000] [13709] [INFO] Booting worker with pid: 13709
+[2017-12-01 16:28:23 +0000] [13710] [INFO] Booting worker with pid: 13710
+[2017-12-01 16:28:23 +0000] [13715] [INFO] Booting worker with pid: 13715
+[2017-12-01 16:28:23 +0000] [13720] [INFO] Booting worker with pid: 13720
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:28:23 +0000] [13723] [INFO] Booting worker with pid: 13723
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:28:23 +0000] [13726] [INFO] Booting worker with pid: 13726
+[2017-12-01 16:28:23 +0000] [13729] [INFO] Booting worker with pid: 13729
+[2017-12-01 16:28:23 +0000] [13730] [INFO] Booting worker with pid: 13730
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:28:23 +0000] [13735] [INFO] Booting worker with pid: 13735
+[2017-12-01 16:28:23 +0000] [13704] [DEBUG] 9 workers
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:28:28 +0000] [13704] [INFO] Handling signal: int
+[2017-12-01 16:28:28 +0000] [13726] [INFO] Worker exiting (pid: 13726)
+[2017-12-01 16:28:28 +0000] [13729] [INFO] Worker exiting (pid: 13729)
+[2017-12-01 16:28:28 +0000] [13720] [INFO] Worker exiting (pid: 13720)
+[2017-12-01 16:28:28 +0000] [13715] [INFO] Worker exiting (pid: 13715)
+[2017-12-01 16:28:28 +0000] [13709] [INFO] Worker exiting (pid: 13709)
+[2017-12-01 16:28:28 +0000] [13710] [INFO] Worker exiting (pid: 13710)
+[2017-12-01 16:28:28 +0000] [13723] [INFO] Worker exiting (pid: 13723)
+[2017-12-01 16:28:28 +0000] [13730] [INFO] Worker exiting (pid: 13730)
+[2017-12-01 16:28:28 +0000] [13735] [INFO] Worker exiting (pid: 13735)
+[2017-12-01 16:28:29 +0000] [13704] [INFO] Shutting down: Master
+[2017-12-01 16:45:33 +0000] [14021] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x7f3a77835f50>
+  errorlog: -
+  enable_stdio_inheritance: False
+  worker_class: gunicorn.workers.ggevent.GeventWorker
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x7f3a77835c80>
+  pre_fork: <function pre_fork at 0x7f3a77835de8>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 0
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: None
+  sendfile: None
+  pidfile: botasky.pid
+  umask: 0
+  on_reload: <function on_reload at 0x7f3a77835b18>
+  pre_exec: <function pre_exec at 0x7f3a7783e578>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x7f3a7783ed70>
+  config: config/gunicorn_conf.py
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x7f3a7783e6e0>
+  post_request: <function post_request at 0x7f3a7783e7d0>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x7f3a7783e2a8>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /home/jzh/mycode/Botasky/botasky
+  daemon: False
+  user: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x7f3a778359b0>
+  post_worker_init: <function post_worker_init at 0x7f3a7783e140>
+  child_exit: <function child_exit at 0x7f3a7783e938>
+  worker_exit: <function worker_exit at 0x7f3a7783eaa0>
+  paste: None
+  default_proc_name: run:app
+  syslog_addr: udp://localhost:514
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x7f3a7783e410>
+  loglevel: debug
+  bind: ['192.168.1.116:3621']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x7f3a7783ec08>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2017-12-01 16:45:33 +0000] [14021] [INFO] Starting gunicorn 19.7.1
+[2017-12-01 16:45:33 +0000] [14021] [DEBUG] Arbiter booted
+[2017-12-01 16:45:33 +0000] [14021] [INFO] Listening at: http://192.168.1.116:3621 (14021)
+[2017-12-01 16:45:33 +0000] [14021] [INFO] Using worker: gunicorn.workers.ggevent.GeventWorker
+[2017-12-01 16:45:33 +0000] [14026] [INFO] Booting worker with pid: 14026
+[2017-12-01 16:45:33 +0000] [14027] [INFO] Booting worker with pid: 14027
+[2017-12-01 16:45:33 +0000] [14028] [INFO] Booting worker with pid: 14028
+[2017-12-01 16:45:33 +0000] [14031] [INFO] Booting worker with pid: 14031
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:45:33 +0000] [14040] [INFO] Booting worker with pid: 14040
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:45:33 +0000] [14047] [INFO] Booting worker with pid: 14047
+[2017-12-01 16:45:33 +0000] [14051] [INFO] Booting worker with pid: 14051
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:45:34 +0000] [14056] [INFO] Booting worker with pid: 14056
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:45:34 +0000] [14058] [INFO] Booting worker with pid: 14058
+[2017-12-01 16:45:34 +0000] [14021] [DEBUG] 9 workers
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-01 16:46:15 +0000] [14056] [DEBUG] GET /api/v1000/moosefs/master
+2017-12-01 16:46:15,414 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-12-01 16:46:15,445 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select id,name,password_hash from users where name = 'da'
+2017-12-01 16:46:15,445 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 16f5100>[cur]:<MySQLdb.cursors.Cursor object at 0x7f3a736f38d0>
+2017-12-01 16:46:15,445 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 16f5100>
+2017-12-01 16:46:15,525 register_verify_user.py[line:102] INFO [action]:verify user[status]:OK[username]:da
+2017-12-01 16:46:15,526 MyGO.py[line:47] INFO [action]:MyMiko init[status]:OK[ip_domain]:192.168.71.142[port]:22[config]:{'username': 'root', 'key_file': '', 'password': 'tfkj706tfkj706'}
+2017-12-01 16:46:16,052 MyGO.py[line:102] INFO [action]:go to server[status]:OK[ip_domain]:192.168.71.142[port]:22
+2017-12-01 16:46:16,373 MyGO.py[line:136] INFO [action]:execute cmd[status]:OK[done_flag]:0[stdout]:0
+[ip_domain]:192.168.71.142[port]:22[cmd]:killall -0 mfsmaster && echo $?
+2017-12-01 16:46:16,374 mfsmaster.py[line:57] INFO [action]:determine whether mfsmaster exists or not[status]:OK[host]:192.168.71.142[port]:22[data]:(0, '0\n')
+[2017-12-01 16:46:16 +0000] [14056] [DEBUG] Closing connection. 
+[2017-12-01 16:46:22 +0000] [14056] [DEBUG] GET /api/v1000/moosefs/master
+2017-12-01 16:46:22,337 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-12-01 16:46:22,343 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select id,name,password_hash from users where name = 'da'
+2017-12-01 16:46:22,343 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 19d55a0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f3a736f3810>
+2017-12-01 16:46:22,344 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 19d55a0>
+2017-12-01 16:46:22,390 register_verify_user.py[line:102] INFO [action]:verify user[status]:OK[username]:da
+2017-12-01 16:46:22,391 MyGO.py[line:47] INFO [action]:MyMiko init[status]:OK[ip_domain]:192.168.71.1[port]:22[config]:{'username': 'root', 'key_file': '', 'password': 'tfkj706tfkj706'}
+2017-12-01 16:46:22,401 MyGO.py[line:111] INFO [action]:go to server[status]:FAIL[Errorcode]:[Errno None] Unable to connect to port 22 on 192.168.71.1[ip_domain]:192.168.71.1[port]:22
+2017-12-01 16:46:22,401 MyGO.py[line:159] ERROR [action]:execute cmd[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'exec_command'[ip_domain]:192.168.71.1[port]:22[cmd]:killall -0 mfsmaster && echo $?
+2017-12-01 16:46:22,401 mfsmaster.py[line:57] INFO [action]:determine whether mfsmaster exists or not[status]:OK[host]:192.168.71.1[port]:22[data]:(2, 'exec_cmd error')
+[2017-12-01 16:46:22 +0000] [14056] [DEBUG] Closing connection. 
+[2017-12-01 16:46:27 +0000] [14051] [DEBUG] GET /api/v1000/moosefs/master
+2017-12-01 16:46:27,233 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-12-01 16:46:27,240 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select id,name,password_hash from users where name = 'da'
+2017-12-01 16:46:27,240 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 16ef910>[cur]:<MySQLdb.cursors.Cursor object at 0x7f3a736f3850>
+2017-12-01 16:46:27,240 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 16ef910>
+2017-12-01 16:46:27,291 register_verify_user.py[line:102] INFO [action]:verify user[status]:OK[username]:da
+2017-12-01 16:46:27,292 MyGO.py[line:47] INFO [action]:MyMiko init[status]:OK[ip_domain]:192.168.71.89[port]:22[config]:{'username': 'root', 'key_file': '', 'password': 'tfkj706tfkj706'}
+[2017-12-01 16:46:47 +0000] [14021] [INFO] Handling signal: int
+[2017-12-01 16:46:47 +0000] [14031] [INFO] Worker exiting (pid: 14031)
+[2017-12-01 16:46:47 +0000] [14051] [INFO] Worker exiting (pid: 14051)
+[2017-12-01 16:46:47 +0000] [14040] [INFO] Worker exiting (pid: 14040)
+[2017-12-01 16:46:47 +0000] [14047] [INFO] Worker exiting (pid: 14047)
+[2017-12-01 16:46:47 +0000] [14026] [INFO] Worker exiting (pid: 14026)
+[2017-12-01 16:46:47 +0000] [14027] [INFO] Worker exiting (pid: 14027)
+[2017-12-01 16:46:47 +0000] [14056] [INFO] Worker exiting (pid: 14056)
+[2017-12-01 16:46:47 +0000] [14028] [INFO] Worker exiting (pid: 14028)
+[2017-12-01 16:46:47 +0000] [14058] [INFO] Worker exiting (pid: 14058)
+[2017-12-01 16:46:47 +0000] [14021] [INFO] Shutting down: Master
+[2017-12-04 09:45:28 +0000] [9819] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x7f9a436baf50>
+  errorlog: -
+  enable_stdio_inheritance: False
+  worker_class: gunicorn.workers.ggevent.GeventWorker
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x7f9a436bac80>
+  pre_fork: <function pre_fork at 0x7f9a436bade8>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 0
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: None
+  sendfile: None
+  pidfile: botasky.pid
+  umask: 0
+  on_reload: <function on_reload at 0x7f9a436bab18>
+  pre_exec: <function pre_exec at 0x7f9a436c3578>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x7f9a436c3d70>
+  config: config/gunicorn_conf.py
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x7f9a436c36e0>
+  post_request: <function post_request at 0x7f9a436c37d0>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x7f9a436c32a8>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /home/jzh/mycode/Botasky/botasky
+  daemon: False
+  user: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x7f9a436ba9b0>
+  post_worker_init: <function post_worker_init at 0x7f9a436c3140>
+  child_exit: <function child_exit at 0x7f9a436c3938>
+  worker_exit: <function worker_exit at 0x7f9a436c3aa0>
+  paste: None
+  default_proc_name: run:app
+  syslog_addr: udp://localhost:514
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x7f9a436c3410>
+  loglevel: debug
+  bind: ['127.0.0.1:3621']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x7f9a436c3c08>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2017-12-04 09:45:28 +0000] [9819] [INFO] Starting gunicorn 19.7.1
+[2017-12-04 09:45:28 +0000] [9819] [DEBUG] Arbiter booted
+[2017-12-04 09:45:28 +0000] [9819] [INFO] Listening at: http://127.0.0.1:3621 (9819)
+[2017-12-04 09:45:28 +0000] [9819] [INFO] Using worker: gunicorn.workers.ggevent.GeventWorker
+[2017-12-04 09:45:28 +0000] [9824] [INFO] Booting worker with pid: 9824
+[2017-12-04 09:45:28 +0000] [9825] [INFO] Booting worker with pid: 9825
+[2017-12-04 09:45:28 +0000] [9826] [INFO] Booting worker with pid: 9826
+[2017-12-04 09:45:29 +0000] [9827] [INFO] Booting worker with pid: 9827
+[2017-12-04 09:45:29 +0000] [9828] [INFO] Booting worker with pid: 9828
+[2017-12-04 09:45:29 +0000] [9829] [INFO] Booting worker with pid: 9829
+[2017-12-04 09:45:29 +0000] [9830] [INFO] Booting worker with pid: 9830
+[2017-12-04 09:45:29 +0000] [9831] [INFO] Booting worker with pid: 9831
+[2017-12-04 09:45:29 +0000] [9832] [INFO] Booting worker with pid: 9832
+[2017-12-04 09:45:29 +0000] [9819] [DEBUG] 9 workers
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-04 09:46:22 +0000] [9829] [DEBUG] GET /api/v1000/moosefs/master
+2017-12-04 09:46:22,495 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-12-04 09:46:22,581 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select id,name,password_hash from users where name = 'da'
+2017-12-04 09:46:22,582 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 27e96f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f9a3f577850>
+2017-12-04 09:46:22,582 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 27e96f0>
+2017-12-04 09:46:22,679 register_verify_user.py[line:102] INFO [action]:verify user[status]:OK[username]:da
+2017-12-04 09:46:22,679 MyGO.py[line:47] INFO [action]:MyMiko init[status]:OK[ip_domain]:192.168.71.142[port]:22[config]:{'username': 'root', 'key_file': '', 'password': 'tfkj706tfkj706'}
+2017-12-04 09:46:23,691 MyGO.py[line:102] INFO [action]:go to server[status]:OK[ip_domain]:192.168.71.142[port]:22
+2017-12-04 09:46:28,592 MyGO.py[line:136] INFO [action]:execute cmd[status]:OK[done_flag]:0[stdout]:0
+[ip_domain]:192.168.71.142[port]:22[cmd]:killall -0 mfsmaster && echo $?
+2017-12-04 09:46:28,593 mfsmaster.py[line:57] INFO [action]:determine whether mfsmaster exists or not[status]:OK[host]:192.168.71.142[port]:22[data]:(0, '0\n')
+[2017-12-04 09:46:28 +0000] [9829] [DEBUG] Closing connection. 
+[2017-12-04 09:46:30 +0000] [9829] [DEBUG] GET /api/v1000/moosefs/master
+2017-12-04 09:46:30,614 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-12-04 09:46:30,618 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select id,name,password_hash from users where name = 'da'
+2017-12-04 09:46:30,618 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2cd81b0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f9a3f577750>
+2017-12-04 09:46:30,619 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2cd81b0>
+2017-12-04 09:46:30,676 register_verify_user.py[line:102] INFO [action]:verify user[status]:OK[username]:da
+2017-12-04 09:46:30,676 MyGO.py[line:47] INFO [action]:MyMiko init[status]:OK[ip_domain]:192.168.71.142[port]:22[config]:{'username': 'root', 'key_file': '', 'password': 'tfkj706tfkj706'}
+2017-12-04 09:46:30,852 MyGO.py[line:102] INFO [action]:go to server[status]:OK[ip_domain]:192.168.71.142[port]:22
+2017-12-04 09:46:31,037 MyGO.py[line:136] INFO [action]:execute cmd[status]:OK[done_flag]:0[stdout]:0
+[ip_domain]:192.168.71.142[port]:22[cmd]:killall -0 mfsmaster && echo $?
+2017-12-04 09:46:31,037 mfsmaster.py[line:57] INFO [action]:determine whether mfsmaster exists or not[status]:OK[host]:192.168.71.142[port]:22[data]:(0, '0\n')
+[2017-12-04 09:46:31 +0000] [9829] [DEBUG] Closing connection. 
+[2017-12-04 09:46:38 +0000] [9819] [INFO] Handling signal: int
+[2017-12-04 09:46:38 +0000] [9824] [INFO] Worker exiting (pid: 9824)
+[2017-12-04 09:46:38 +0000] [9832] [INFO] Worker exiting (pid: 9832)
+[2017-12-04 09:46:38 +0000] [9827] [INFO] Worker exiting (pid: 9827)
+[2017-12-04 09:46:38 +0000] [9830] [INFO] Worker exiting (pid: 9830)
+[2017-12-04 09:46:38 +0000] [9826] [INFO] Worker exiting (pid: 9826)
+[2017-12-04 09:46:38 +0000] [9831] [INFO] Worker exiting (pid: 9831)
+[2017-12-04 09:46:38 +0000] [9825] [INFO] Worker exiting (pid: 9825)
+[2017-12-04 09:46:38 +0000] [9828] [INFO] Worker exiting (pid: 9828)
+[2017-12-04 09:46:38 +0000] [9829] [INFO] Worker exiting (pid: 9829)
+[2017-12-04 09:46:38 +0000] [9819] [INFO] Shutting down: Master
+[2017-12-04 10:24:21 +0000] [10505] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x7f658b6d1f50>
+  errorlog: -
+  enable_stdio_inheritance: False
+  worker_class: gunicorn.workers.ggevent.GeventWorker
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x7f658b6d1c80>
+  pre_fork: <function pre_fork at 0x7f658b6d1de8>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 0
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: None
+  sendfile: None
+  pidfile: botasky.pid
+  umask: 0
+  on_reload: <function on_reload at 0x7f658b6d1b18>
+  pre_exec: <function pre_exec at 0x7f658b6da578>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x7f658b6dad70>
+  config: config/gunicorn_conf.py
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x7f658b6da6e0>
+  post_request: <function post_request at 0x7f658b6da7d0>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x7f658b6da2a8>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /home/jzh/mycode/Botasky/botasky
+  daemon: False
+  user: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x7f658b6d19b0>
+  post_worker_init: <function post_worker_init at 0x7f658b6da140>
+  child_exit: <function child_exit at 0x7f658b6da938>
+  worker_exit: <function worker_exit at 0x7f658b6daaa0>
+  paste: None
+  default_proc_name: run:app
+  syslog_addr: udp://localhost:514
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x7f658b6da410>
+  loglevel: debug
+  bind: ['127.0.0.1:3621']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x7f658b6dac08>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2017-12-04 10:24:21 +0000] [10505] [INFO] Starting gunicorn 19.7.1
+[2017-12-04 10:24:21 +0000] [10505] [DEBUG] Arbiter booted
+[2017-12-04 10:24:21 +0000] [10505] [INFO] Listening at: http://127.0.0.1:3621 (10505)
+[2017-12-04 10:24:21 +0000] [10505] [INFO] Using worker: gunicorn.workers.ggevent.GeventWorker
+[2017-12-04 10:24:21 +0000] [10510] [INFO] Booting worker with pid: 10510
+[2017-12-04 10:24:21 +0000] [10511] [INFO] Booting worker with pid: 10511
+[2017-12-04 10:24:21 +0000] [10512] [INFO] Booting worker with pid: 10512
+[2017-12-04 10:24:21 +0000] [10513] [INFO] Booting worker with pid: 10513
+[2017-12-04 10:24:21 +0000] [10514] [INFO] Booting worker with pid: 10514
+[2017-12-04 10:24:21 +0000] [10515] [INFO] Booting worker with pid: 10515
+[2017-12-04 10:24:22 +0000] [10516] [INFO] Booting worker with pid: 10516
+[2017-12-04 10:24:22 +0000] [10517] [INFO] Booting worker with pid: 10517
+[2017-12-04 10:24:22 +0000] [10518] [INFO] Booting worker with pid: 10518
+[2017-12-04 10:24:22 +0000] [10505] [DEBUG] 9 workers
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-04 10:28:10 +0000] [10505] [INFO] Handling signal: term
+[2017-12-04 10:28:11 +0000] [10514] [INFO] Worker exiting (pid: 10514)
+[2017-12-04 10:28:11 +0000] [10511] [INFO] Worker exiting (pid: 10511)
+[2017-12-04 10:28:11 +0000] [10513] [INFO] Worker exiting (pid: 10513)
+[2017-12-04 10:28:11 +0000] [10510] [INFO] Worker exiting (pid: 10510)
+[2017-12-04 10:28:11 +0000] [10516] [INFO] Worker exiting (pid: 10516)
+[2017-12-04 10:28:11 +0000] [10512] [INFO] Worker exiting (pid: 10512)
+[2017-12-04 10:28:11 +0000] [10518] [INFO] Worker exiting (pid: 10518)
+[2017-12-04 10:28:11 +0000] [10515] [INFO] Worker exiting (pid: 10515)
+[2017-12-04 10:28:11 +0000] [10517] [INFO] Worker exiting (pid: 10517)
+[2017-12-04 10:28:11 +0000] [10505] [INFO] Shutting down: Master
+[2017-12-04 10:31:34 +0000] [10676] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x7fe911998f50>
+  errorlog: -
+  enable_stdio_inheritance: False
+  worker_class: gunicorn.workers.ggevent.GeventWorker
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x7fe911998c80>
+  pre_fork: <function pre_fork at 0x7fe911998de8>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 0
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: None
+  sendfile: None
+  pidfile: botasky.pid
+  umask: 0
+  on_reload: <function on_reload at 0x7fe911998b18>
+  pre_exec: <function pre_exec at 0x7fe9119a1578>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x7fe9119a1d70>
+  config: config/gunicorn_conf.py
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x7fe9119a16e0>
+  post_request: <function post_request at 0x7fe9119a17d0>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x7fe9119a12a8>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /home/jzh/mycode/Botasky/botasky
+  daemon: False
+  user: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x7fe9119989b0>
+  post_worker_init: <function post_worker_init at 0x7fe9119a1140>
+  child_exit: <function child_exit at 0x7fe9119a1938>
+  worker_exit: <function worker_exit at 0x7fe9119a1aa0>
+  paste: None
+  default_proc_name: run:app
+  syslog_addr: udp://localhost:514
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x7fe9119a1410>
+  loglevel: debug
+  bind: ['127.0.0.1:3621']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x7fe9119a1c08>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2017-12-04 10:31:34 +0000] [10676] [INFO] Starting gunicorn 19.7.1
+[2017-12-04 10:31:34 +0000] [10676] [DEBUG] Arbiter booted
+[2017-12-04 10:31:34 +0000] [10676] [INFO] Listening at: http://127.0.0.1:3621 (10676)
+[2017-12-04 10:31:34 +0000] [10676] [INFO] Using worker: gunicorn.workers.ggevent.GeventWorker
+[2017-12-04 10:31:34 +0000] [10681] [INFO] Booting worker with pid: 10681
+[2017-12-04 10:31:34 +0000] [10682] [INFO] Booting worker with pid: 10682
+[2017-12-04 10:31:34 +0000] [10683] [INFO] Booting worker with pid: 10683
+[2017-12-04 10:31:34 +0000] [10684] [INFO] Booting worker with pid: 10684
+[2017-12-04 10:31:34 +0000] [10685] [INFO] Booting worker with pid: 10685
+[2017-12-04 10:31:34 +0000] [10686] [INFO] Booting worker with pid: 10686
+[2017-12-04 10:31:34 +0000] [10687] [INFO] Booting worker with pid: 10687
+[2017-12-04 10:31:34 +0000] [10688] [INFO] Booting worker with pid: 10688
+[2017-12-04 10:31:34 +0000] [10689] [INFO] Booting worker with pid: 10689
+[2017-12-04 10:31:34 +0000] [10676] [DEBUG] 9 workers
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-04 10:32:55 +0000] [10676] [INFO] Handling signal: term
+[2017-12-04 10:32:56 +0000] [10682] [INFO] Worker exiting (pid: 10682)
+[2017-12-04 10:32:56 +0000] [10685] [INFO] Worker exiting (pid: 10685)
+[2017-12-04 10:32:56 +0000] [10688] [INFO] Worker exiting (pid: 10688)
+[2017-12-04 10:32:56 +0000] [10689] [INFO] Worker exiting (pid: 10689)
+[2017-12-04 10:32:56 +0000] [10687] [INFO] Worker exiting (pid: 10687)
+[2017-12-04 10:32:56 +0000] [10681] [INFO] Worker exiting (pid: 10681)
+[2017-12-04 10:32:56 +0000] [10684] [INFO] Worker exiting (pid: 10684)
+[2017-12-04 10:32:56 +0000] [10686] [INFO] Worker exiting (pid: 10686)
+[2017-12-04 10:32:56 +0000] [10683] [INFO] Worker exiting (pid: 10683)
+[2017-12-04 10:32:56 +0000] [10676] [INFO] Shutting down: Master
+[2017-12-04 10:39:53 +0000] [10860] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x7f5757dcef50>
+  errorlog: -
+  enable_stdio_inheritance: False
+  worker_class: gunicorn.workers.ggevent.GeventWorker
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x7f5757dcec80>
+  pre_fork: <function pre_fork at 0x7f5757dcede8>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: None
+  group: 0
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 9
+  proc_name: None
+  sendfile: None
+  pidfile: botasky.pid
+  umask: 0
+  on_reload: <function on_reload at 0x7f5757dceb18>
+  pre_exec: <function pre_exec at 0x7f5757dd7578>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x7f5757dd7d70>
+  config: config/gunicorn_conf.py
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x7f5757dd76e0>
+  post_request: <function post_request at 0x7f5757dd77d0>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x7f5757dd72a8>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /home/jzh/mycode/Botasky/botasky
+  daemon: False
+  user: 0
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x7f5757dce9b0>
+  post_worker_init: <function post_worker_init at 0x7f5757dd7140>
+  child_exit: <function child_exit at 0x7f5757dd7938>
+  worker_exit: <function worker_exit at 0x7f5757dd7aa0>
+  paste: None
+  default_proc_name: run:app
+  syslog_addr: udp://localhost:514
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x7f5757dd7410>
+  loglevel: debug
+  bind: ['127.0.0.1:3621']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x7f5757dd7c08>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2017-12-04 10:39:53 +0000] [10860] [INFO] Starting gunicorn 19.7.1
+[2017-12-04 10:39:53 +0000] [10860] [DEBUG] Arbiter booted
+[2017-12-04 10:39:53 +0000] [10860] [INFO] Listening at: http://127.0.0.1:3621 (10860)
+[2017-12-04 10:39:53 +0000] [10860] [INFO] Using worker: gunicorn.workers.ggevent.GeventWorker
+[2017-12-04 10:39:53 +0000] [10865] [INFO] Booting worker with pid: 10865
+[2017-12-04 10:39:53 +0000] [10866] [INFO] Booting worker with pid: 10866
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-04 10:39:53 +0000] [10875] [INFO] Booting worker with pid: 10875
+[2017-12-04 10:39:53 +0000] [10876] [INFO] Booting worker with pid: 10876
+[2017-12-04 10:39:53 +0000] [10877] [INFO] Booting worker with pid: 10877
+[2017-12-04 10:39:53 +0000] [10878] [INFO] Booting worker with pid: 10878
+[2017-12-04 10:39:53 +0000] [10880] [INFO] Booting worker with pid: 10880
+[2017-12-04 10:39:53 +0000] [10879] [INFO] Booting worker with pid: 10879
+[2017-12-04 10:39:53 +0000] [10883] [INFO] Booting worker with pid: 10883
+[2017-12-04 10:39:53 +0000] [10860] [DEBUG] 9 workers
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+ _           _            _          
+| |__   ___ | |_ __ _ ___| | ___   _ 
+| '_ \ / _ \| __/ _` / __| |/ / | | |
+| |_) | (_) | || (_| \__ \   <| |_| |
+|_.__/ \___/ \__\__,_|___/_|\_\\__, |
+                               |___/ 
+[2017-12-04 10:39:55 +0000] [10860] [INFO] Handling signal: term
+[2017-12-04 10:39:55 +0000] [10879] [INFO] Worker exiting (pid: 10879)
+[2017-12-04 10:39:55 +0000] [10883] [INFO] Worker exiting (pid: 10883)
+[2017-12-04 10:39:55 +0000] [10880] [INFO] Worker exiting (pid: 10880)
+[2017-12-04 10:39:55 +0000] [10865] [INFO] Worker exiting (pid: 10865)
+[2017-12-04 10:39:55 +0000] [10877] [INFO] Worker exiting (pid: 10877)
+[2017-12-04 10:39:55 +0000] [10866] [INFO] Worker exiting (pid: 10866)
+[2017-12-04 10:39:55 +0000] [10875] [INFO] Worker exiting (pid: 10875)
+[2017-12-04 10:39:55 +0000] [10878] [INFO] Worker exiting (pid: 10878)
+[2017-12-04 10:39:55 +0000] [10876] [INFO] Worker exiting (pid: 10876)
+[2017-12-04 10:39:55 +0000] [10860] [INFO] Shutting down: Master

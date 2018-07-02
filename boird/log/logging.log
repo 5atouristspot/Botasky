@@ -1,0 +1,602 @@
+2017-10-27 17:40:14,351 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 17:40:19,977 MyMAIL.py[line:191] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [HK2P15301CA0014.APCP153.PROD.OUTLOOK.COM]')[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 17:41:04,661 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 17:41:10,452 MyMAIL.py[line:191] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [KL1PR0302CA0001.apcprd03.prod.outlook.com]')[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 17:44:19,692 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 17:44:25,540 MyMAIL.py[line:191] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [KL1PR0302CA0010.apcprd03.prod.outlook.com]')[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 17:58:46,322 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 17:58:52,647 MyMAIL.py[line:193] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [PS1PR0401CA0053.apcprd04.prod.outlook.com]')[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 18:02:24,550 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 18:02:24,861 MyMAIL.py[line:192] ERROR [action]:send mail[status]:FAIL[Errorcode]:SMTP AUTH extension not supported by server.[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 18:03:02,626 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 18:03:08,615 MyMAIL.py[line:192] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [PS1PR0401CA0060.apcprd04.prod.outlook.com]')[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 18:03:26,644 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-27 18:03:26,931 MyMAIL.py[line:192] ERROR [action]:send mail[status]:FAIL[Errorcode]:SMTP AUTH extension not supported by server.[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 08:57:32,485 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 08:57:33,224 MyMAIL.py[line:192] ERROR [action]:send mail[status]:FAIL[Errorcode]:SMTP AUTH extension not supported by server.[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:07:52,181 MyMAIL.py[line:76] INFO [action]:init msg[status]:OK[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:07:59,247 MyMAIL.py[line:192] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [HK2P15301CA0016.APCP153.PROD.OUTLOOK.COM]')[Subject]:test[From]:0905zhihao<tfkj_software@outlook.com>[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:21:17,914 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:21:25,397 MyMAIL.py[line:193] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [MWHPR08CA0034.namprd08.prod.outlook.com]')[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:22:03,704 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:23:21,647 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:23:22,300 MyMAIL.py[line:193] ERROR [action]:send mail[status]:FAIL[Errorcode]:SMTP AUTH extension not supported by server.[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:23:41,401 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:23:42,057 MyMAIL.py[line:193] ERROR [action]:send mail[status]:FAIL[Errorcode]:SMTP AUTH extension not supported by server.[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:25:43,398 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:26:26,151 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:27:23,428 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:27:41,258 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:28:06,540 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:28:06,937 MyMAIL.py[line:193] ERROR [action]:send mail[status]:FAIL[Errorcode]:SMTP AUTH extension not supported by server.[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:33:01,283 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 09:33:08,327 MyMAIL.py[line:193] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, '5.7.3 Authentication unsuccessful [MWHPR13CA0026.namprd13.prod.outlook.com]')[Subject]:test[From]:tfkj_software@outlook.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:21:33,121 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:21:48,863 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:22:15,177 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:23:51,679 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:23:51,960 MyMAIL.py[line:194] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:42:56,325 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:42:56,565 MyMAIL.py[line:194] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:57:20,518 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:58:23,134 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 10:58:23,594 MyMAIL.py[line:194] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 11:07:39,148 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:07:39,704 MyMAIL.py[line:194] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:08:33,472 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:09:30,230 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:42:50,506 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:42:50,746 MyMAIL.py[line:195] ERROR [action]:send mail[status]:FAIL[Errorcode]:STARTTLS extension not supported by server.[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:43:15,238 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:43:15,670 MyMAIL.py[line:195] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:43:25,722 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 11:43:26,004 MyMAIL.py[line:195] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 12:11:57,422 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 12:11:57,584 MyMAIL.py[line:218] ERROR [action]:send mail[status]:FAIL[Errorcode]:'int' object is not callable[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 12:14:07,358 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 12:14:08,124 MyMAIL.py[line:219] ERROR [action]:send mail[status]:FAIL[Errorcode]:'int' object is not callable[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:36:44,825 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:36:45,109 MyMAIL.py[line:219] ERROR [action]:send mail[status]:FAIL[Errorcode]:'int' object is not callable[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:41:41,510 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:42:23,383 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:43:05,127 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:51:58,791 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:51:59,094 MyMAIL.py[line:216] ERROR [action]:send mail[status]:FAIL[Errorcode]:[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:590)[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 13:53:32,602 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 13:53:32,994 MyMAIL.py[line:216] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 13:58:08,840 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 13:58:09,112 MyMAIL.py[line:216] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 14:00:24,692 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 14:00:24,987 MyMAIL.py[line:216] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 14:05:05,842 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 14:05:06,245 MyMAIL.py[line:217] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 14:20:09,340 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:20:10,222 MyMAIL.py[line:219] ERROR [action]:send mail[status]:FAIL[Errorcode]:'int' object is not callable[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:21:22,019 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:21:42,869 MyMAIL.py[line:210] INFO [action]:send mail[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:24:44,290 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:25:05,338 MyMAIL.py[line:210] INFO [action]:send mail[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:25:45,047 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:30:05,342 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:36:48,951 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:38:04,930 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:38:32,214 MyMAIL.py[line:215] INFO [action]:send mail[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:39:15,150 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:39:48,440 MyMAIL.py[line:215] INFO [action]:send mail[status]:OK[Subject]:xxxxxxxxxxxxx[From]:tfkj_software@outlook.com[To]:1204207658@qq.com
+2017-10-31 14:42:45,037 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 14:42:45,363 MyMAIL.py[line:220] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:xxxxxxxxxxxxx[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com
+2017-10-31 14:43:49,034 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 14:43:49,389 MyMAIL.py[line:220] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 14:44:42,949 MyMAIL.py[line:77] INFO [action]:init msg[status]:OK[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 14:44:43,195 MyMAIL.py[line:220] ERROR [action]:send mail[status]:FAIL[Errorcode]:(535, 'Error: \xc7\xeb\xca\xb9\xd3\xc3\xca\xda\xc8\xa8\xc2\xeb\xb5\xc7\xc2\xbc\xa1\xa3\xcf\xea\xc7\xe9\xc7\xeb\xbf\xb4: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')[Subject]:test[From]:back_res_service@dangjianwang.com[To]:1204207658@qq.com;back_res_service@dangjianwang.com
+2017-10-31 16:29:35,050 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:29:35,069 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfscgiserv' and on_off = 1 ;
+2017-10-31 16:29:35,069 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at f92ea0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fca6265d1d0>
+2017-10-31 16:29:35,069 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at f92ea0>
+2017-10-31 16:29:44,948 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:29:44,954 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfscgiserv' and on_off = 1 ;
+2017-10-31 16:29:44,954 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at dbcea0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fc80e1d31d0>
+2017-10-31 16:29:44,954 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at dbcea0>
+2017-10-31 16:30:55,551 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:30:55,556 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 16:30:55,556 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 23b5ea0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f2714fed1d0>
+2017-10-31 16:30:55,556 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 23b5ea0>
+2017-10-31 16:30:55,930 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:30:55,934 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 16:30:55,934 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e76ea0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fa881d401d0>
+2017-10-31 16:30:55,935 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e76ea0>
+2017-10-31 16:31:18,232 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:31:18,236 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 16:31:18,236 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 15e9ea0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f40b1f631d0>
+2017-10-31 16:31:18,236 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 15e9ea0>
+2017-10-31 16:31:43,197 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:31:43,204 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmar' and on_off = 1 ;
+2017-10-31 16:31:43,204 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1577ea0>[cur]:<MySQLdb.cursors.Cursor object at 0x7ff28fc631d0>
+2017-10-31 16:31:43,204 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1577ea0>
+2017-10-31 16:31:53,350 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:31:53,355 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmar' and on_off = 1 ;
+2017-10-31 16:31:53,355 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1b35d20>[cur]:<MySQLdb.cursors.Cursor object at 0x7f8ad8d5f1d0>
+2017-10-31 16:31:53,356 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1b35d20>
+2017-10-31 16:42:08,044 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:42:08,050 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 16:42:08,051 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2c296f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f8e123e3150>
+2017-10-31 16:42:08,051 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2c296f0>
+2017-10-31 16:58:17,284 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:58:17,288 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 16:58:17,288 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2ce8d10>[cur]:<MySQLdb.cursors.Cursor object at 0x7fcbeec0c150>
+2017-10-31 16:58:17,288 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2ce8d10>
+2017-10-31 16:59:14,570 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 16:59:14,584 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 16:59:14,584 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1f24c90>[cur]:<MySQLdb.cursors.Cursor object at 0x7ff0fdede150>
+2017-10-31 16:59:14,584 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1f24c90>
+2017-10-31 17:01:11,283 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:01:11,287 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:01:11,287 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1a796d0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fef0494f150>
+2017-10-31 17:01:11,287 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1a796d0>
+2017-10-31 17:02:20,283 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:02:20,290 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:02:20,290 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2a6f6d0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f0bdd835150>
+2017-10-31 17:02:20,290 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a6f6d0>
+2017-10-31 17:24:10,264 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:24:10,295 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:24:10,295 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1ab86d0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f3e03b84150>
+2017-10-31 17:24:10,295 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1ab86d0>
+2017-10-31 17:24:10,307 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:24:10,316 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:24:10,316 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1ab86d0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f3e03b84250>
+2017-10-31 17:24:10,316 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1ab86d0>
+2017-10-31 17:40:42,553 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:40:42,558 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:40:42,558 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>[cur]:<MySQLdb.cursors.Cursor object at 0x7fa6cdb37d90>
+2017-10-31 17:40:42,558 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>
+2017-10-31 17:40:42,558 mfs.py[line:78] ERROR [action]:agent call boird mfsmaster api[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'append'
+2017-10-31 17:40:47,577 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:40:47,581 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:40:47,582 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>[cur]:<MySQLdb.cursors.Cursor object at 0x7fa6cdb37f90>
+2017-10-31 17:40:47,582 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>
+2017-10-31 17:40:47,583 mfs.py[line:78] ERROR [action]:agent call boird mfsmaster api[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'append'
+2017-10-31 17:40:52,600 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:40:52,609 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:40:52,609 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>[cur]:<MySQLdb.cursors.Cursor object at 0x7fa6cdb37f50>
+2017-10-31 17:40:52,610 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>
+2017-10-31 17:40:52,610 mfs.py[line:78] ERROR [action]:agent call boird mfsmaster api[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'append'
+2017-10-31 17:40:57,627 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:40:57,637 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:40:57,637 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>[cur]:<MySQLdb.cursors.Cursor object at 0x7fa6cdb37f50>
+2017-10-31 17:40:57,637 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>
+2017-10-31 17:40:57,637 mfs.py[line:78] ERROR [action]:agent call boird mfsmaster api[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'append'
+2017-10-31 17:41:02,654 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:41:02,658 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:41:02,659 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>[cur]:<MySQLdb.cursors.Cursor object at 0x7fa6cdb37f90>
+2017-10-31 17:41:02,659 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>
+2017-10-31 17:41:02,659 mfs.py[line:78] ERROR [action]:agent call boird mfsmaster api[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'append'
+2017-10-31 17:41:07,685 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:41:07,691 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:41:07,710 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>[cur]:<MySQLdb.cursors.Cursor object at 0x7fa6cdb37d90>
+2017-10-31 17:41:07,710 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 13b4160>
+2017-10-31 17:41:07,711 mfs.py[line:78] ERROR [action]:agent call boird mfsmaster api[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'append'
+2017-10-31 17:44:37,467 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:44:37,470 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:44:37,471 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 19ce490>[cur]:<MySQLdb.cursors.Cursor object at 0x7fde46f9ee50>
+2017-10-31 17:44:37,471 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 19ce490>
+2017-10-31 17:44:37,471 mfs.py[line:78] ERROR [action]:agent call boird mfsmaster api[status]:FAIL[Errorcode]:'NoneType' object has no attribute 'append'
+2017-10-31 17:48:35,296 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:48:35,303 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:48:35,303 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at c54490>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a96ee50>
+2017-10-31 17:48:35,304 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at c54490>
+2017-10-31 17:48:40,328 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:48:40,333 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:48:40,333 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e70b40>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8ded90>
+2017-10-31 17:48:40,333 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e70b40>
+2017-10-31 17:48:45,359 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:48:45,365 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:48:45,365 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at c4c2a0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8e9310>
+2017-10-31 17:48:45,365 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at c4c2a0>
+2017-10-31 17:48:50,391 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:48:50,396 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:48:50,397 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e32800>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8e9950>
+2017-10-31 17:48:50,397 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e32800>
+2017-10-31 17:48:55,416 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:48:55,421 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:48:55,422 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e49a70>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8e9f90>
+2017-10-31 17:48:55,422 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e49a70>
+2017-10-31 17:49:00,444 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:00,450 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:00,451 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e4bbb0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8f2610>
+2017-10-31 17:49:00,451 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e4bbb0>
+2017-10-31 17:49:05,476 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:05,480 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:05,480 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e4d850>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8f2b90>
+2017-10-31 17:49:05,480 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e4d850>
+2017-10-31 17:49:10,497 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:10,501 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:10,502 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e4f4c0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8fc090>
+2017-10-31 17:49:10,502 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e4f4c0>
+2017-10-31 17:49:15,523 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:15,532 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:15,532 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e51130>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8fc610>
+2017-10-31 17:49:15,532 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e51130>
+2017-10-31 17:49:20,551 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:20,557 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:20,558 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e52dd0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415a8fcc50>
+2017-10-31 17:49:20,558 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e52dd0>
+2017-10-31 17:49:25,581 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:25,587 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:25,588 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e54a70>[cur]:<MySQLdb.cursors.Cursor object at 0x7f41586712d0>
+2017-10-31 17:49:25,588 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e54a70>
+2017-10-31 17:49:30,607 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:30,612 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:30,627 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e56b00>[cur]:<MySQLdb.cursors.Cursor object at 0x7f4158671910>
+2017-10-31 17:49:30,628 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e56b00>
+2017-10-31 17:49:35,662 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:35,674 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:35,674 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e58830>[cur]:<MySQLdb.cursors.Cursor object at 0x7f4158671e90>
+2017-10-31 17:49:35,674 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e58830>
+2017-10-31 17:49:40,695 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:40,699 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:40,700 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e5a4d0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415867b390>
+2017-10-31 17:49:40,700 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e5a4d0>
+2017-10-31 17:49:45,719 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:49:45,724 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:49:45,724 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at e5c170>[cur]:<MySQLdb.cursors.Cursor object at 0x7f415867b910>
+2017-10-31 17:49:45,724 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at e5c170>
+2017-10-31 17:52:06,000 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:52:06,004 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:52:06,005 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 25b8490>[cur]:<MySQLdb.cursors.Cursor object at 0x7f7838fb8e10>
+2017-10-31 17:52:06,005 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 25b8490>
+2017-10-31 17:52:06,005 MyTHREAD.py[line:221] ERROR [action]:mutlithreading task[status]:FAIL[Errorcode]:len() takes exactly one argument (2 given)
+2017-10-31 17:52:11,020 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 17:52:11,025 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 17:52:11,026 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 25b8490>[cur]:<MySQLdb.cursors.Cursor object at 0x7f7838fb8e10>
+2017-10-31 17:52:11,026 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 25b8490>
+2017-10-31 17:52:11,027 MyTHREAD.py[line:221] ERROR [action]:mutlithreading task[status]:FAIL[Errorcode]:len() takes exactly one argument (2 given)
+2017-10-31 18:06:03,277 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:06:03,299 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:06:03,300 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1f4da80>[cur]:<MySQLdb.cursors.Cursor object at 0x7f389be41e10>
+2017-10-31 18:06:03,300 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1f4da80>
+2017-10-31 18:08:58,890 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:08:58,897 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:08:58,897 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 277da80>[cur]:<MySQLdb.cursors.Cursor object at 0x7f65bc874e10>
+2017-10-31 18:08:58,897 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 277da80>
+2017-10-31 18:09:03,919 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:09:03,924 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:09:03,924 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 27ffc00>[cur]:<MySQLdb.cursors.Cursor object at 0x7f65bc7e3d50>
+2017-10-31 18:09:03,924 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 27ffc00>
+2017-10-31 18:09:22,846 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:09:22,850 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:09:22,851 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2a5aa80>[cur]:<MySQLdb.cursors.Cursor object at 0x7f09e9c08e10>
+2017-10-31 18:09:22,851 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a5aa80>
+2017-10-31 18:12:41,117 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:12:41,121 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:12:41,121 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 21bd5c0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fe3cd426e10>
+2017-10-31 18:12:41,121 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 21bd5c0>
+2017-10-31 18:13:12,781 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:13:12,786 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:13:12,786 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 11d75c0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f35a6361e10>
+2017-10-31 18:13:12,787 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 11d75c0>
+2017-10-31 18:16:23,630 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:16:23,635 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:16:23,635 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2d4da70>[cur]:<MySQLdb.cursors.Cursor object at 0x7ff084fd3e10>
+2017-10-31 18:16:23,635 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2d4da70>
+2017-10-31 18:16:28,664 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:16:28,673 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:16:28,673 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2d87e70>[cur]:<MySQLdb.cursors.Cursor object at 0x7ff084f43f10>
+2017-10-31 18:16:28,673 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2d87e70>
+2017-10-31 18:18:28,388 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:18:28,392 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:18:28,392 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 22106d0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f64dbf89e10>
+2017-10-31 18:18:28,392 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 22106d0>
+2017-10-31 18:18:33,408 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:18:33,412 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:18:33,413 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2588510>[cur]:<MySQLdb.cursors.Cursor object at 0x7f64dbefa350>
+2017-10-31 18:18:33,413 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2588510>
+2017-10-31 18:18:38,432 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:18:38,437 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:18:38,437 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 23a6030>[cur]:<MySQLdb.cursors.Cursor object at 0x7f64dbefab50>
+2017-10-31 18:18:38,437 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 23a6030>
+2017-10-31 18:18:43,469 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:18:43,482 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:18:43,483 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2579120>[cur]:<MySQLdb.cursors.Cursor object at 0x7f64dbf063d0>
+2017-10-31 18:18:43,483 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2579120>
+2017-10-31 18:19:59,656 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:19:59,668 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:19:59,668 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 28876d0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f7cb5c00e10>
+2017-10-31 18:19:59,668 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 28876d0>
+2017-10-31 18:20:38,515 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:20:38,520 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:20:38,520 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 10c55c0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fabf5dc4e10>
+2017-10-31 18:20:38,520 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 10c55c0>
+2017-10-31 18:20:43,537 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:20:43,541 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:20:43,541 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 110aea0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fabf5d34350>
+2017-10-31 18:20:43,542 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 110aea0>
+2017-10-31 18:22:38,126 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:22:38,133 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:22:38,134 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 20a7490>[cur]:<MySQLdb.cursors.Cursor object at 0x7f77c5b9ce50>
+2017-10-31 18:22:38,134 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 20a7490>
+2017-10-31 18:22:43,150 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-10-31 18:22:43,154 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port from add_monitor_info where monitor_name = 'mfs:mfsmaster' and on_off = 1 ;
+2017-10-31 18:22:43,154 MyCONN.py[line:226] INFO [action]:fetchAllRows[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2288dc0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f77c5b0a390>
+2017-10-31 18:22:43,155 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2288dc0>
+2017-11-01 08:46:25,319 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 08:46:25,326 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 08:46:25,377 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'None' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 08:46:25,377 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 16d7370>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c116f50>
+2017-11-01 08:46:25,377 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 16d7370>
+2017-11-01 08:46:25,377 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:None[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:02:44,032 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:02:44,035 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:02:44,038 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:02:44,038 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 16e2cd0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c03a210>
+2017-11-01 09:02:44,038 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 16e2cd0>
+2017-11-01 09:02:44,038 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:25:11,725 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:25:11,727 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:25:11,731 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:25:11,731 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 16e3d00>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c03a150>
+2017-11-01 09:25:11,731 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 16e3d00>
+2017-11-01 09:25:11,731 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:27:26,577 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:27:26,579 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:27:26,583 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:27:26,583 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 170b150>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c04d7d0>
+2017-11-01 09:27:26,583 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 170b150>
+2017-11-01 09:27:26,583 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:33:34,672 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:33:34,675 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:33:34,678 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:33:34,678 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 16e3d00>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c04d550>
+2017-11-01 09:33:34,679 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 16e3d00>
+2017-11-01 09:33:34,679 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:34:48,926 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:34:48,929 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:34:48,932 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:34:48,932 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 171ec40>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c05e610>
+2017-11-01 09:34:48,932 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 171ec40>
+2017-11-01 09:34:48,932 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:36:09,348 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:36:09,350 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:36:09,353 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:36:09,354 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1736f80>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c05e390>
+2017-11-01 09:36:09,354 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1736f80>
+2017-11-01 09:36:09,354 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:37:18,263 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:37:18,266 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:37:18,269 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'None' and monitor_ip = '192.168.71.142' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:37:18,269 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1709ce0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6cfb4650>
+2017-11-01 09:37:18,269 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1709ce0>
+2017-11-01 09:37:18,269 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:None[monitor ip]:192.168.71.142[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:40:18,012 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:40:18,014 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:40:18,017 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'None' and monitor_ip = 'None' and monitor_port = 'None' order by create_time desc ;
+2017-11-01 09:40:18,017 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1726e00>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c05ed10>
+2017-11-01 09:40:18,017 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1726e00>
+2017-11-01 09:40:18,018 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:None[monitor ip]:None[monitor port]:None[Errorcode]:'NoneType' object has no attribute '__getitem__'
+2017-11-01 09:41:38,189 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:41:38,192 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:41:38,213 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = '0' order by create_time desc ;
+2017-11-01 09:41:38,213 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 171f880>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c05eb50>
+2017-11-01 09:41:38,214 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 171f880>
+2017-11-01 09:41:38,216 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:41:38,321 MyCONN.py[line:156] INFO [action]:update[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:update add_monitor_info set first_error_time=0.0 where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 ;
+2017-11-01 09:41:38,322 MyCONN.py[line:327] INFO [action]:commit[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1708ff0>
+2017-11-01 09:41:38,322 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1708ff0>
+2017-11-01 09:41:38,322 alert.py[line:104] INFO [action]:set first error time[status]:OK[first_error_time]:0.0[return code]:0
+2017-11-01 09:41:38,323 alert.py[line:296] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-01 09:41:38,323 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0[Errorcode]:"'action'"
+2017-11-01 09:50:11,036 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:50:11,038 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:50:11,059 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = '0' order by create_time desc ;
+2017-11-01 09:50:11,059 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 17190f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c04da10>
+2017-11-01 09:50:11,059 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 17190f0>
+2017-11-01 09:50:11,061 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:50:11,164 MyCONN.py[line:156] INFO [action]:update[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:update add_monitor_info set first_error_time=0.0 where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 ;
+2017-11-01 09:50:11,164 MyCONN.py[line:327] INFO [action]:commit[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 17190f0>
+2017-11-01 09:50:11,165 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 17190f0>
+2017-11-01 09:50:11,165 alert.py[line:104] INFO [action]:set first error time[status]:OK[first_error_time]:0.0[return code]:0
+2017-11-01 09:50:11,165 alert.py[line:296] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-01 09:50:11,166 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0[Errorcode]:"'action'"
+2017-11-01 09:51:30,546 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:51:30,549 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:51:30,569 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = '0' order by create_time desc ;
+2017-11-01 09:51:30,569 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 171a560>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e6c04df10>
+2017-11-01 09:51:30,570 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 171a560>
+2017-11-01 09:51:30,572 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:51:30,672 MyCONN.py[line:156] INFO [action]:update[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:update add_monitor_info set first_error_time=0.0 where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 ;
+2017-11-01 09:51:30,672 MyCONN.py[line:327] INFO [action]:commit[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 171a560>
+2017-11-01 09:51:30,673 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 171a560>
+2017-11-01 09:51:30,673 alert.py[line:104] INFO [action]:set first error time[status]:OK[first_error_time]:0.0[return code]:0
+2017-11-01 09:51:30,673 alert.py[line:296] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-01 09:51:30,673 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0[Errorcode]:"'action'"
+2017-11-01 09:53:49,203 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:53:49,209 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:53:49,231 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-01 09:53:49,231 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1bc5100>[cur]:<MySQLdb.cursors.Cursor object at 0x7f821062c750>
+2017-11-01 09:53:49,231 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1bc5100>
+2017-11-01 09:53:49,233 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:53:49,324 MyCONN.py[line:156] INFO [action]:update[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:update add_monitor_info set first_error_time=0.0 where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 ;
+2017-11-01 09:53:49,325 MyCONN.py[line:327] INFO [action]:commit[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1bc5100>
+2017-11-01 09:53:49,325 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1bc5100>
+2017-11-01 09:53:49,325 alert.py[line:104] INFO [action]:set first error time[status]:OK[first_error_time]:0.0[return code]:0
+2017-11-01 09:53:49,325 alert.py[line:296] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-01 09:56:01,986 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 09:56:01,992 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 09:56:02,014 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-01 09:56:02,015 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2d1a9b0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fbf00a3f750>
+2017-11-01 09:56:02,015 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2d1a9b0>
+2017-11-01 09:56:02,015 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0[Errorcode]:'float' object has no attribute 'split'
+2017-11-01 10:07:15,524 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 10:07:15,530 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 10:07:15,552 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-01 10:07:15,552 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2090f40>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e224e0750>
+2017-11-01 10:07:15,553 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2090f40>
+2017-11-01 10:07:15,555 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 10:07:15,556 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-01 10:07:15,557 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2090f40>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e224e0750>
+2017-11-01 10:07:15,557 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2090f40>
+2017-11-01 10:07:15,557 alert.py[line:111] ERROR [action]:iset first error time[status]:FAIL[Errorcode]:'str' object has no attribute 'timetuple'[first_error_time]:1508422254.0
+2017-11-01 10:07:25,665 alert.py[line:195] ERROR [action]:send alert message[status]:FAIL[Errorcode]:'ascii' codec can't encode characters in position 21-26: ordinal not in range(128)
+2017-11-01 10:07:25,665 alert.py[line:296] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-01 10:07:25,665 alert.py[line:311] ERROR [action]:send alert[status]:FAIL[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0[Errorcode]:invalid syntax (<string>, line 1)
+2017-11-01 10:17:06,191 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 10:17:06,196 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 10:17:06,217 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-01 10:17:06,217 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 26ddf10>[cur]:<MySQLdb.cursors.Cursor object at 0x7f489e24b750>
+2017-11-01 10:17:06,218 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 26ddf10>
+2017-11-01 10:17:06,220 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 10:17:06,221 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-01 10:17:06,222 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 26ddf10>[cur]:<MySQLdb.cursors.Cursor object at 0x7f489e24b750>
+2017-11-01 10:17:06,222 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 26ddf10>
+2017-11-01 10:17:06,222 alert.py[line:111] ERROR [action]:iset first error time[status]:FAIL[Errorcode]:'str' object has no attribute 'timetuple'[first_error_time]:1508422254.0
+2017-11-01 10:17:11,326 alert.py[line:195] ERROR [action]:send alert message[status]:FAIL[Errorcode]:'ascii' codec can't encode characters in position 21-26: ordinal not in range(128)
+2017-11-01 10:17:11,327 alert.py[line:296] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-01 10:20:49,398 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-01 10:20:49,404 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 10:20:49,425 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-01 10:20:49,425 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2b360b0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f53e95e1750>
+2017-11-01 10:20:49,426 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2b360b0>
+2017-11-01 10:20:49,428 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-01 10:20:49,429 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-01 10:20:49,429 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2b360b0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f53e95e1750>
+2017-11-01 10:20:49,429 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2b360b0>
+2017-11-01 10:20:49,430 alert.py[line:111] ERROR [action]:iset first error time[status]:FAIL[Errorcode]:'str' object has no attribute 'timetuple'[first_error_time]:1508422254.0
+2017-11-01 10:20:54,533 alert.py[line:195] ERROR [action]:send alert message[status]:FAIL[Errorcode]:'ascii' codec can't encode characters in position 21-26: ordinal not in range(128)
+2017-11-01 10:20:54,533 alert.py[line:297] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 09:14:36,524 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 09:14:36,530 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 09:14:36,552 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 09:14:36,552 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1f9d4f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7ff412c22bd0>
+2017-11-02 09:14:36,552 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1f9d4f0>
+2017-11-02 09:14:36,555 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 09:14:36,556 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 09:14:36,556 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 1f370f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7ff412c22bd0>
+2017-11-02 09:14:36,556 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 1f370f0>
+2017-11-02 09:14:36,557 alert.py[line:111] ERROR [action]:iset first error time[status]:FAIL[Errorcode]:'str' object has no attribute 'timetuple'[first_error_time]:1508422254.0
+2017-11-02 09:14:41,697 alert.py[line:195] ERROR [action]:send alert message[status]:FAIL[Errorcode]:'ascii' codec can't encode characters in position 21-26: ordinal not in range(128)
+2017-11-02 09:14:41,698 alert.py[line:297] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 09:45:31,593 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 09:45:31,599 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 09:45:31,619 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 09:45:31,620 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2a971b0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f9ce517db90>
+2017-11-02 09:45:31,620 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a971b0>
+2017-11-02 09:45:31,623 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 09:45:31,624 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 09:45:31,624 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2a30de0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f9ce517db90>
+2017-11-02 09:45:31,624 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a30de0>
+2017-11-02 09:45:31,626 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 09:45:31,725 MyCONN.py[line:156] INFO [action]:update[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:update add_monitor_info set first_error_time='1508422254.0' where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 ;
+2017-11-02 09:45:31,725 MyCONN.py[line:327] INFO [action]:commit[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a30de0>
+2017-11-02 09:45:31,726 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a30de0>
+2017-11-02 09:45:31,726 alert.py[line:105] INFO [action]:set first error time[status]:OK[first_error_time]:1508422254.0[return code]:1
+2017-11-02 09:45:37,802 alert.py[line:196] ERROR [action]:send alert message[status]:FAIL[Errorcode]:'ascii' codec can't encode characters in position 21-26: ordinal not in range(128)
+2017-11-02 09:45:37,803 alert.py[line:298] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:00:40,889 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:00:40,895 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:00:40,917 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:00:40,918 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 273c7b0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e1f9ccd50>
+2017-11-02 10:00:40,918 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 273c7b0>
+2017-11-02 10:00:40,920 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:00:40,921 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:00:40,921 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 273c4a0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f1e1f9ccd50>
+2017-11-02 10:00:40,922 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 273c4a0>
+2017-11-02 10:00:46,021 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=∑¢ÀÕ∂Ã–≈≥…π¶&taskid=208545417256&faillist=&task_id=208545417256
+2017-11-02 10:00:46,021 alert.py[line:304] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:05:19,247 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:05:19,254 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:05:19,276 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:05:19,276 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2d7d9f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f9e76fa3d50>
+2017-11-02 10:05:19,276 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2d7d9f0>
+2017-11-02 10:05:19,279 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:05:19,280 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:05:19,280 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2de4990>[cur]:<MySQLdb.cursors.Cursor object at 0x7f9e76fa3d50>
+2017-11-02 10:05:19,280 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2de4990>
+2017-11-02 10:05:29,867 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=∑¢ÀÕ∂Ã–≈≥…π¶&taskid=208545417936&faillist=&task_id=208545417936
+2017-11-02 10:05:29,867 alert.py[line:305] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:14:58,811 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:14:58,816 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:14:58,838 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:14:58,838 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 3263570>[cur]:<MySQLdb.cursors.Cursor object at 0x7f22d9ff0d50>
+2017-11-02 10:14:58,839 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 3263570>
+2017-11-02 10:14:58,841 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:14:58,843 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:14:58,843 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 3263260>[cur]:<MySQLdb.cursors.Cursor object at 0x7f22d9ff0d50>
+2017-11-02 10:14:58,843 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 3263260>
+2017-11-02 10:15:03,930 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=32&description=Õ¨“ª∫≈¬Î∑¢ÀÕ¥Œ ˝Ã´∂‡,“ªÃÏƒ⁄Õ¨“ª∫≈¬Î∑¢ÀÕœ‡Õ¨ƒ⁄»›¥Œ ˝:2,µ±«∞¥Œ ˝Œ™:2
+2017-11-02 10:15:03,931 alert.py[line:305] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:17:23,648 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:17:23,654 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:17:23,677 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:17:23,677 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2234570>[cur]:<MySQLdb.cursors.Cursor object at 0x7f0e9a1bad50>
+2017-11-02 10:17:23,677 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2234570>
+2017-11-02 10:17:23,679 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:17:23,681 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:17:23,681 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2234260>[cur]:<MySQLdb.cursors.Cursor object at 0x7f0e9a1bad50>
+2017-11-02 10:17:23,681 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2234260>
+2017-11-02 10:17:28,779 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=∑¢ÀÕ∂Ã–≈≥…π¶&taskid=208545419711&faillist=&task_id=208545419711
+2017-11-02 10:17:28,780 alert.py[line:305] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:27:56,021 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:27:56,027 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:27:56,048 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:27:56,048 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 3008c50>[cur]:<MySQLdb.cursors.Cursor object at 0x7fdff798be10>
+2017-11-02 10:27:56,048 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 3008c50>
+2017-11-02 10:27:56,051 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:27:56,052 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:27:56,053 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 3008c50>[cur]:<MySQLdb.cursors.Cursor object at 0x7fdff798be10>
+2017-11-02 10:27:56,053 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 3008c50>
+2017-11-02 10:28:01,158 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=∑¢ÀÕ∂Ã–≈≥…π¶&taskid=208545421307&faillist=&task_id=208545421307
+2017-11-02 10:28:01,158 alert.py[line:305] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:33:07,366 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:33:07,372 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:33:07,392 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:33:07,393 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 230c7f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fc98e59ac10>
+2017-11-02 10:33:07,393 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 230c7f0>
+2017-11-02 10:33:07,395 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:33:07,397 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:33:07,397 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 22a5770>[cur]:<MySQLdb.cursors.Cursor object at 0x7fc98e526590>
+2017-11-02 10:33:07,397 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 22a5770>
+2017-11-02 10:33:17,507 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=ÂèëÈÄÅÁü≠‰ø°ÊàêÂäü&taskid=208544986248&faillist=&task_id=208544986248
+2017-11-02 10:33:17,507 alert.py[line:305] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:36:31,342 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:36:31,348 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:36:31,383 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:36:31,384 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 225f7f0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fe476af2c10>
+2017-11-02 10:36:31,384 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 225f7f0>
+2017-11-02 10:36:31,386 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:36:31,387 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:36:31,387 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 21f8770>[cur]:<MySQLdb.cursors.Cursor object at 0x7fe476a7e590>
+2017-11-02 10:36:31,388 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 21f8770>
+2017-11-02 10:36:36,492 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=ÂèëÈÄÅÁü≠‰ø°ÊàêÂäü&taskid=208544986685&faillist=&task_id=208544986685
+2017-11-02 10:36:36,492 alert.py[line:305] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-02 10:49:42,061 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-02 10:49:42,069 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:49:42,090 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-02 10:49:42,090 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 21d6770>[cur]:<MySQLdb.cursors.Cursor object at 0x7f5c540fdc50>
+2017-11-02 10:49:42,091 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 21d6770>
+2017-11-02 10:49:42,093 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-02 10:49:42,094 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-02 10:49:42,094 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 216f3a0>[cur]:<MySQLdb.cursors.Cursor object at 0x7f5c540895d0>
+2017-11-02 10:49:42,095 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 216f3a0>
+2017-11-02 10:49:47,198 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=ÂèëÈÄÅÁü≠‰ø°ÊàêÂäü&taskid=208544988336&faillist=&task_id=208544988336
+2017-11-02 10:49:47,199 alert.py[line:306] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-14 03:06:01,710 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-14 03:06:01,716 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-14 03:06:01,781 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-14 03:06:01,781 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2a45f30>[cur]:<MySQLdb.cursors.Cursor object at 0x7f64fedb0bd0>
+2017-11-14 03:06:01,781 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a45f30>
+2017-11-14 03:06:01,784 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-14 03:06:01,801 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-14 03:06:01,801 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 2a45c20>[cur]:<MySQLdb.cursors.Cursor object at 0x7f64fed3c550>
+2017-11-14 03:06:01,801 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 2a45c20>
+2017-11-14 03:06:11,913 alert.py[line:193] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=ÂèëÈÄÅÁü≠‰ø°ÊàêÂäü&taskid=208550189098&faillist=&task_id=208550189098
+2017-11-14 03:06:11,914 alert.py[line:300] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
+2017-11-14 04:01:30,545 register_verify_user.py[line:93] INFO [action]:verify user[status]:OK[username]:da
+2017-11-14 04:01:30,552 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-14 04:01:30,573 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select monitor_name,monitor_ip,monitor_port,http_code,exec_code,api_info,create_time from collection_info where monitor_name = 'mfs:mfsmaster' and monitor_ip = '192.168.71.142' and monitor_port = 0 order by create_time desc ;
+2017-11-14 04:01:30,573 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 25c1590>[cur]:<MySQLdb.cursors.Cursor object at 0x7fc302bfae50>
+2017-11-14 04:01:30,573 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 25c1590>
+2017-11-14 04:01:30,576 MyCONN.py[line:70] INFO [action]:connect[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[user]:admin
+2017-11-14 04:01:30,578 MyCONN.py[line:119] INFO [action]:query[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[sql]:select first_error_time from add_monitor_info where monitor_name='mfs:mfsmaster' and monitor_ip='192.168.71.142' and monitor_port=0 ;
+2017-11-14 04:01:30,578 MyCONN.py[line:262] INFO [action]:fetchOneRow[status]:OK[host]:192.168.41.40[port]:3306[db]=zhihao_test[conn]:<_mysql.connection open to '192.168.41.40' at 255c7c0>[cur]:<MySQLdb.cursors.Cursor object at 0x7fc302bfaf90>
+2017-11-14 04:01:30,578 MyCONN.py[line:385] INFO [action]:close[status]:OK[conn]:<_mysql.connection open to '192.168.41.40' at 255c7c0>
+2017-11-14 04:01:40,683 alert.py[line:194] INFO [action]:send alert message[status]:OK[send respond]:result=0&description=ÂèëÈÄÅÁü≠‰ø°ÊàêÂäü&taskid=208550951140&faillist=&task_id=208550951140
+2017-11-14 04:01:40,684 alert.py[line:302] INFO [action]:send alert[status]:OK[monitor name]:mfs:mfsmaster[monitor ip]:192.168.71.142[monitor port]:0
