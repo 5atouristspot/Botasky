@@ -181,9 +181,9 @@ class MySQL(object):
 
             self._cur.execute("SET NAMES utf8")
             self._cur.execute(sql)
-            self._conn.commit()
             result = self._conn.insert_id()
-
+            self._conn.commit()
+            
             sql_info = "[action]:update" \
                        "[status]:OK" \
                        "[sql]:{sql}" \
