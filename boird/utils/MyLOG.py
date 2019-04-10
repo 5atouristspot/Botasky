@@ -67,7 +67,7 @@ class MyLog:
             pass
 
         if self.outputFile == 1:
-            self.file_handler = RotatingFileHandler(self.log_file_path, maxBytes=self.maxBytes, backupCount=self.backupCount)
+            self.file_handler = RotatingFileHandler(self.log_file_path, maxBytes=10*1024*1024, backupCount=10)
             # define RotatingFileHandler, file output path, one file max byte, max backup number
             self.file_handler.setFormatter(self.formatter)
             self.logger.setLevel(self.outputFile_level)
